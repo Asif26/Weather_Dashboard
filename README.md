@@ -49,5 +49,5 @@ The dashboard demonstrates data transformation, modeling, and visualization in P
 🔎 Users can select a city or country to update the dashboard dynamically.
 
 📸 Screenshots
+https://github.com/Asif26/Weather_Dashboard/blob/main/weather_dashborad.png
 
-https://github.com/Asif26/Weather_Dashboard/blob/main/weather_dashboard.png
