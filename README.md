@@ -50,6 +50,4 @@ The dashboard demonstrates data transformation, modeling, and visualization in P
 
 📸 Screenshots
 
-📸 Screenshots
-
-(Add screenshots of your dashboard here for better visualization)
+https://github.com/Asif26/Weather_Dashboard/blob/main/weather_dashboard.png
